@@ -5,6 +5,7 @@
 
 > A restorant recipes website that also let's you read a random recipe using a modern api.
 
+![Screenshot](homeRESTORA.png)
 ## Author
 
 👤 **Dan O F**
@@ -16,4 +17,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
